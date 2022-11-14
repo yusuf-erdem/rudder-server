@@ -12,6 +12,7 @@ import (
 	"github.com/rudderlabs/rudder-server/runner"
 )
 
+
 var (
 	version                                                                  = "Not an official release. Get the latest release from the github repo."
 	major, minor, commit, buildDate, builtBy, gitURL, patch, enterpriseToken string
